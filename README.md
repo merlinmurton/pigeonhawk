@@ -1,2 +1,2 @@
 # pigeonhawk
-A place to communicate about 3d.
+A place to communicate about privacy in the age of ai.
